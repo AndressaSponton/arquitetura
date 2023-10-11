@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    font-family: "inter";
+}
+
+#titulomenusuperior{
+    font-size: 60px;
+    margin-left: 100px;
+    padding-top: 130px;
+}
+
+#textomenusuperior{
+    font-size:20px;
+    margin-left: 100px;
+    margin-top: 20px;
+    padding-bottom: 80px;
+}
+
+#menusuperior{
+    background-color: #303030;
+    color: #FFFFFF;
+}
+
+#menuinformacional{
+    background-color: #F9F9F9; 
+    display: grid;
+    grid-auto-flow: column;
+    columns:auto;
+    padding: 55px
+}
+
+#menuinformacional h1{
+    font-weight: 600;
+    size: 40px;
+}
+
+#menuinformacional h2{
+    font-weight: 400;
+    size: 20px;
+}
+
+#textoinformativo{
+    font-weight: normal;
+    font-size: 20px;
+}
+
+#corpo{
+    margin: 0;
+    margin: 250px 25px 250px 75px;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+#secaoPrincipal{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#tituloSecaoPrincipal{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+#imagem{
+    margin: 25px 25px 25px 75px
+}
+
+#formulario{
+    background-color: #303030;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 700;
+}
+
+#formTitle{
+margin: 25px;
+padding-top: 45px;
+padding-bottom: 35px;
+}
+
+input{
+    Width: 508px;
+    Height: 72px;
+    background-color: #FFFFFF;
+    margin: 25px;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 30px;
+    font-size:x-large;
+}
+
+button{
+   background-color: #C07212; 
+   color: #FFFFFF;
+   Width: 286px;
+   Height: 74px;
+   border: 0px;
+   border-radius: 10px;
+   text-align: center;
+   font-size:x-large;
+   margin-bottom: 50px;
+   margin-top:45px ;
+   cursor:pointer;
+}
+
+button:hover{
+    background-color: #C07212;
+    color: #F9F9F9;
+    transform:translateY(-7px);
+    box-shadow: 15px 15px  #976c3c;
+    transition-duration: 0.4s;
+}
