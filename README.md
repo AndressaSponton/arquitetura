@@ -7,3 +7,5 @@ Na landing page encontramos texto, imagem, e um formulário. Este formulário ao
 
 O link para acessar o projeto é https://primeiroprojetodnc.netlify.app
 
+O link para acessar a planilha do formulario https://formspree.io/f/xdoryoak
+
